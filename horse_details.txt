@@ -1,0 +1,20 @@
+1,jk,dk,4,romanian,3 wins in 5 races,A
+2,Thunder,John,10,Morgan,3 wins in 6 races,A
+3,Blaze,Emma,5,Arabian,4 wins in 9 races,A
+4,Glory,David,4,Thoroughbred,2 wins in 6 races,A
+5,Flash,Brown,5,Paint Horse,6 wins in 10 races,A
+6,Rider,Wilson,5,ArabiN,1 win in 3 races,B
+7,Silver,Michael,4,Friesian,2 wins in 7 races,B
+8,Moonlight,Davis,6,Palomino,4 wins in 5 races,B
+9,Night,Ava,5,Arabian,7 wins in 9 races,B
+10,Velvet,Noah,5,Morgan,2 wins in 8 races,B
+11,Hooves,Garcia,3,Arabian,5 wins in 8 races,C
+12,Wind,Daniel,4,Belgian,1 win in 3 races,C
+13,Royal,James,4,Palomino,4 wins in 8 matches,C
+14,Rider,Mia,5,Belgian,3 wins in 7 matches,C
+15,Sunburst,Emily,6,Arabian,5 wins 6 races,C
+16,Mirage,Miller,5,Mustang,3 wins in 8 races,D
+17,Falcon,Chloe,4,Arabian,4 wins in 7 races,D
+18,Blaze,Taylor,6,Belgian,2 wins in 6 races,D
+19,Shadow,Benjamin,5,Arabian,2 wins in 8 races,D
+20,horse,me,4,uropian,4 wins in 6races,D
